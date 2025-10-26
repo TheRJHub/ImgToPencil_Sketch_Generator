@@ -17,6 +17,9 @@ Installation
 Usage
 -----
 --> Place your image in a folder. Update the image_path in the script with your image location.
+
 --> Run the script: p.py
+
 --> A window will open showing: Original image and Pencil sketch with watermark
+
 --> Press any key to close the window.
